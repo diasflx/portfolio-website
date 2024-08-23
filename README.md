@@ -1,1 +1,1 @@
-My first ever programming project
+My first ever coding project
